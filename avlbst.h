@@ -8,6 +8,10 @@
 #include <algorithm>
 #include "bst.h"
 
+// May trigger some type of copy/paste mechanism because I completed 
+// this on VSCode, since Codio was down for me and I was sent this 
+// copy of the skeleton code by a fellow classmate.
+
 struct KeyError { };
 
 /**
